@@ -1,5 +1,5 @@
 {
-    "name": "ignaciojcano/laravel-auth-token",
+    "name": "dieguito12/laravel-auth-token",
     "description": "",
     "authors": [
         {
@@ -8,8 +8,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "~5.0"
+        "php": ">=5.6.0",
+        "illuminate/support": "~5.4"
     },
 
     "require-dev": {
